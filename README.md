@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:08.10.2025
+## Register Number:25017406
+## Name:PRIYADHARSHAN U
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,88 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+
+We propose a mobile-based Smart Crop Advisory System designed specifically for small and marginal farmers. The solution will:
+
+Provide AI-powered, real-time recommendations based on soil data, weather forecasts, and crop history.
+
+Support regional languages with voice commands to aid low-literate users.
+
+Enable pest and disease detection using image recognition.
+
+Track market trends for better crop-selling decisions.
+
+Allow personalized advisory based on location, crop type, and growth stage.
+
+This solution stands out due to its integration of multilingual AI support, voice-enabled interaction, and low-data usability – making it highly inclusive for digitally underserved farmers.
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+
+Frontend: React Native (for cross-platform mobile app)
+
+Backend: Python (Flask/FastAPI), Node.js
+
+AI/ML: TensorFlow / PyTorch for pest detection, NLP models for language support
+
+Database: Firebase / MongoDB
+
+APIs: Weather APIs, Government Agri Data APIs, Market Price APIs
+
+Process Flow:
+
+User logs in via mobile app
+
+Inputs/selects farm data (location, soil type, crops)
+
+Receives personalized recommendations
+
+Uploads images for pest/disease analysis
+
+Gets real-time weather alerts and market prices
+
+Option to ask queries via voice/text in local language
+
+(Include flowchart or UI prototype here if required.)
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
 
-## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Feasibility: High – given the availability of mobile devices, existing weather/soil APIs, and open-source ML models.
+
+Challenges:
+
+Language diversity
+
+Internet accessibility in rural areas
+
+Building trust among farmers
+
+Mitigation Strategies:
+
+Offline functionality
+
+Local language support
+
+Pilot testing with NGOs and cooperatives
+
+Impact and Benefits
+
+Social Impact: Empowers rural farmers with scientific tools and insights.
+
+Economic Impact: Reduces crop failure and input costs, increases yield and profits.
+
+Environmental Impact: Promotes sustainable farming and reduces chemical overuse.
+
+Technological Impact: Bridges the digital divide in agriculture through inclusive design.
 
 ## Research and References
-<h3>Remove These Lines</h3>
+
+NABARD Report (2022): Status of Small and Marginal Farmers
+
+FAO Reports on ICT in Agriculture
+
+ICAR Guidelines on Crop Advisory
+
+Ministry of Agriculture and Farmers Welfare Open Data Portals
+
+Academic Journals on AI in Agriculture (Elsevier, Springer)ines</h3>
 <ul><li>Details / Links of the reference and research work</li></ul>
